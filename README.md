@@ -2030,6 +2030,7 @@ _Related: [Ticketing](#ticketing), [Task Management & To-do Lists](#task-managem
 Tools and software for [software testing](https://en.wikipedia.org/wiki/Software_testing).
 
 - [Bencher](https://bencher.dev/) - Suite of continuous benchmarking tools designed to catch performance regressions in CI. ([Source Code](https://github.com/bencherdev/bencher)) `MIT/Apache-2.0` `Rust`
+- [Eventum](https://eventum.run/) - Data generation platform for producing synthetic log and event streams for testing, observability and SIEM workloads. ([Source Code](https://github.com/eventum-generator/eventum))`Apache-2.0` `Python/TypeScript/Docker`
 - [WebHook Tester](https://github.com/tarampampam/webhook-tester) - Powerful tool for testing WebHooks and more. `MIT` `Docker/Go/deb/K8S`
 
 
